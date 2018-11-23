@@ -1,0 +1,16 @@
+C:\Project\Prj138\Prj138\Prj138\bin\Debug\Prj138.exe.config
+C:\Project\Prj138\Prj138\Prj138\bin\Debug\Prj138.exe
+C:\Project\Prj138\Prj138\Prj138\bin\Debug\Prj138.pdb
+C:\Project\Prj138\Prj138\Prj138\obj\Debug\Prj138.csprojResolveAssemblyReference.cache
+C:\Project\Prj138\Prj138\Prj138\obj\Debug\Prj138.Properties.Resources.resources
+C:\Project\Prj138\Prj138\Prj138\obj\Debug\Prj138.csproj.GenerateResource.Cache
+C:\Project\Prj138\Prj138\Prj138\obj\Debug\Prj138.exe
+C:\Project\Prj138\Prj138\Prj138\obj\Debug\Prj138.pdb
+C:\Project\Prj138\Prj138\Prj138\obj\Debug\Prj138.frmTest1.resources
+C:\Project\Prj138\Prj138\Prj138\obj\Debug\Prj138.frmTest2.resources
+C:\Project\Prj138\Prj138\Prj138\obj\Debug\Prj138.frmLogin.resources
+C:\Project\Prj138\Prj138\Prj138\obj\Debug\Prj138.mdiMain.resources
+C:\Project\Prj138\Prj138\Prj138\obj\Debug\Prj138.frmTest3.resources
+C:\Project\Prj138\Prj138\Prj138\obj\Debug\Prj138.frmCity.resources
+C:\Project\Prj138\Prj138\Prj138\obj\Debug\Prj138.frmThem.resources
+C:\Project\Prj138\Prj138\Prj138\obj\Debug\Prj138.frmProduct.resources
